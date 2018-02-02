@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "lirb"
   spec.version       = Lirb::VERSION
   spec.authors       = ["Linus Schoemaker"]
-  spec.email         = ["schoemaker@floydhamilton.nl"]
+  spec.email         = ["de.linus@gmail.com"]
 
   spec.summary       = "A ruby scheme parser"
   spec.description   = "Small personal project of implementing a scheme interpreter in Ruby"
